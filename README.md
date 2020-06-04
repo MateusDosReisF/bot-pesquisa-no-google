@@ -14,3 +14,6 @@ import requests\
 import re
 
 *
+
+
+O ARQUIVO "botsearch.rar" É O ARQUIVO JA PRONTO PARA EXERCUÇÃO , DENTRO DO ARQUIVO EXISTE O ARQUIVO CHAMADO DE "botsearch.exe"
